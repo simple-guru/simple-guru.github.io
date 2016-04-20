@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               SimpleGuru
+tagline:             everything in simple words
+url:                 http://simple-guru.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Prajwal Gurumurthy
+  url:               https://in.linkedin.com/in/prajwal-g-238a883b
+  email:             simpleguru91@gmail.com
 
 # Custom vars
 version:             2.0.0
