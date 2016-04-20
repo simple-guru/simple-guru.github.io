@@ -13,10 +13,25 @@
   margin-bottom: 0;
   color: $gray-4;
 
-.masthead-subtitle {
+.masthead-subtitle > li {
   float: left;
-  text-align: right; 
-    
+  text-align: right;    
+}
+
+.masthead-subtitle > li > a {
+  border-radius: 5px;
+}
+
+.masthead-subtitle > li + li {
+  margin-left: 2px;
+}
+
+.masthead-subtitle > li.active > a,
+.masthead-subtitle > li.active > a:hover,
+.masthead-subtitle > li.active > a:focus {
+  color: #ffffff;
+  background-color: $gray-4;
+
 }
     
   a {
