@@ -7,10 +7,16 @@
 
     <div class="container content">
       <header class="masthead">
+        <div class="header">
+	       <ul class="nav nav-pills pull-right">
+                <li class="{{ masthead-title }}"><a href="/notes" title="Notes">Notes</a></li>
+                <li class="{{ masthead-title }}"><a href="/about" title="About">About</a></li>
+	       </ul>
         <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
+              <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+              <small>{{ site.tagline }}</small>
         </h3>
+        </div> <!-- /header -->
       </header>
 
       <main>
