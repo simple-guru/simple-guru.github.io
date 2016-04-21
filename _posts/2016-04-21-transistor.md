@@ -17,7 +17,7 @@ GREAT!!!Lets get started then.
 
 How do we build one?
 Lets start with [AND](https://en.wikibooks.org/wiki/Electronics/Basic_gates). The logic AND outputs high if all the inputs are high.
-{% highlight %}
+{% highlight text %}
     ....! ....! ....
     .              .     
     .......`O`......
