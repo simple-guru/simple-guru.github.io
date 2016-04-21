@@ -18,16 +18,70 @@ GREAT!!!Lets get started then.
 How do we build one?
 Lets start with [AND](https://en.wikibooks.org/wiki/Electronics/Basic_gates). The logic AND outputs high if all the inputs are high.
 {% highlight text %}
+
     ....! ....! ....
-    .              .     
+   ___              .
+    -              .
     .......`O`......
     
     AND using Switches
     
- Imagine those ! symbols as switches.`0` is our Glowy BULB
+ Imagine those ! symbols as switches.`0` is our Glowy BULB.[Stop thinking of it as birthday cake]
 
 {% endhighlight %}
 If one of the switch is closed the bulb will not glow. The Bulb Glows only when both switches are closed.So we have our AND gate ready. Great going!!!
+
+The [OR](https://en.wikibooks.org/wiki/Electronics/Basic_gates).
+The logic OR outputs high if any of its inout is high.
+
+{% highlight text %}
+
+       ....! ....
+       .        .
+    ....        .......
+    .  .        .     .
+    .  ....! ....     .
+   ___               `O`
+    -                 .
+    ...................
+    
+    OR using Switches
+
+{% endhighlight %}
+
+Even if one of the switch is closed the bulb glows.We have our OR.
+
+The naughty [NOT](https://en.wikibooks.org/wiki/Electronics/Basic_gates):
+you say high i say low, I say low you say high.....
+
+{% highlight text %}
+   ........! ........
+   ___              .
+    -               .
+    .......`O`.......
+    
+    NOT using Switches
+
+{% endhighlight %}
+
+Here is the logical way of representing the logic gates.
+[!gates](http://www.waitingforfriday.com/index.php/File:Slide6.PNG)
+
+Now that we all out ingredients ready, we can cook our meth now.
+
+Next up, Lets use these to build an adder circuit.
+
+[!Full Adder](http://www.waitingforfriday.com/index.php/File:Slide10.PNG) 
+
+Nothing fancy. Just work out the math.I am sure all the electronics 101 bells are ringing now!!!
+
+
+
+
+I know what you are thinking.Where the hell is the computer?
+
+We will get there.
+>Its about the journey, Not the Destination.Enjoy the ride!!!
 
 
 
