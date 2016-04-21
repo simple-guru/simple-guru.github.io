@@ -17,14 +17,20 @@ GREAT!!!Lets get started then.
 
 How do we build one?
 Lets start with [AND](https://en.wikibooks.org/wiki/Electronics/Basic_gates). The logic AND outputs high if all the inputs are high.
->
+{% highlight %}
     ....! ....! ....
-    .              .     AND using Switches
+    .              .     
     .......`O`......
     
-> Imagine those ! symbols as switches.`0` is our Glowy BULB
+    AND using Switches
+    
+ Imagine those ! symbols as switches.`0` is our Glowy BULB
 
+{% endhighlight %}
 If one of the switch is closed the bulb will not glow. The Bulb Glows only when both switches are closed.So we have our AND gate ready. Great going!!!
+
+
+
 
 Transistor is the biggest innovation of 19th century.Simple yet powerful revolutionised the way we go about doing things everyday.I find it difficult to name something that is not influenced by this liitle piece of marvel.Something ranging from a simple watch to satellite are built using this tiny little transistors. 
 
