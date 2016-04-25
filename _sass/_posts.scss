@@ -41,6 +41,12 @@
   border-bottom: 1px solid #eee;
 }
 
+p.text {
+    width: 11em; 
+    border: 1px solid #000000;
+    word-wrap: break-word;
+}
+
 .related-posts {
   padding-left: 0;
   list-style: none;
