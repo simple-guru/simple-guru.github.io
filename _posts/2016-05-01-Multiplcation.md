@@ -7,7 +7,7 @@ Back in the 90's when I was a kid I clocked 0.05sec for multiplying two numbers 
 
 > Challenge the "Mighty" computers
 
-Lets set the competation rules right.
+Lets set the competition rules right.
 
 {% highlight text %}
 result = a * b
@@ -45,6 +45,21 @@ end
 
 >I beat the computer hands down!!
 
-My friend is not happy with the results. He is not gonna give up
+My friend is not happy with the results.He started scrambling something on his notebook. I got a little curious. He did a litle math and I could see his sparkling eyes beaming with confidence.I could see the dys and the dxs. I could smell something was fishy.
+
+>I could see the dys and the dxs.
+
+He started explaining what he was upto with these computation graphs.
+
+
+
+
+
+
+
+
+
+
+
 
 
