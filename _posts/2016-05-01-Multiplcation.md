@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Man vs the Machines: Multiplication of 2 numbers
+title: Man vs the Machines for the Multiplication of 2 numbers
 ---
 
 > Challenge the "Mighty" computers
